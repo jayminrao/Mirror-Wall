@@ -1,17 +1,5 @@
-# browser_app
-
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
-"# MirrorWall" 
+![Screenshot_20240311_223742](https://github.com/jayminrao/Mirror-Wall/assets/138772785/b889e7ac-b7ef-42f3-abe3-364b2a3ebe59)
+![Screenshot_20240311_223733](https://github.com/jayminrao/Mirror-Wall/assets/138772785/31836768-e632-4f90-b2e5-eca064dfd836)
+![Screenshot_20240311_223722](https://github.com/jayminrao/Mirror-Wall/assets/138772785/e7373314-820c-415e-9cad-c4e03477d4a2)
+![Screenshot_20240311_223711](https://github.com/jayminrao/Mirror-Wall/assets/138772785/0b77cb33-bfb9-41a1-b9f1-21f5a80f414d)
+![Screenshot_20240311_223648](https://github.com/jayminrao/Mirror-Wall/assets/138772785/f4658bb7-2656-4210-90de-8547d6242ca1)
